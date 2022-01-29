@@ -12,11 +12,11 @@ The task is to build the Figma design provided in React. You'll want to make sur
 3. In the VSCode terminal (you can also use the standard terminal instead of the one in VSCode), run:
    1. `cd project`
    2. `npm install`
-4. Open Figma file <a href="https://www.figma.com/file/gfE3cQUMM2XeZsRQwOFMIX/Landing-page?node-id=0%3A1" target="_blank">here</a>.
+4. Open Figma file [here](https://www.figma.com/file/gfE3cQUMM2XeZsRQwOFMIX/Landing-page?node-id=0%3A1).
 5. There is a section at the bottom of the design with a row of cards. This is where you'll be implementing an API call to pull in some mock data for the cards.
 6. The API url is `https://mocki.io/v1/b9c63035-97c5-40a0-b45c-2abdf5261bdf`.
 7. The API will have more data than what is needed to be displayed, so make to to limit it to just show 6 cards.
-8. In the `App.js` file, you'll see an import from `emotion-flex-grid`. Please use this when building the design. You can reference the documentation <a href="https://github.com/rann91/emotion-flex-grid" target="_blank">here</a> or <a href="https://rann91.github.io/emotion-flex-grid/" target="_blank">here</a>.
+8. In the `App.js` file, you'll see an import from `emotion-flex-grid`. Please use this when building the design. You can reference the documentation [here](https://github.com/rann91/emotion-flex-grid) or [here](https://rann91.github.io/emotion-flex-grid/).
 9. Once you're finished with the design, publish the project to your Github account and send the link to [meaghan@baalspots.com](mailto:meaghan@baalspots.com) or in Indeed/LinkedIn.
 
 #### _Note_

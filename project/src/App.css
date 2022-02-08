@@ -36,3 +36,153 @@
     transform: rotate(360deg);
   }
 }
+
+
+
+/*   updated Code     */
+body {
+  background: #1D1D1C;
+}
+
+.feature{
+
+  
+  width: 1440px;
+  height: 853px;
+  left: 0px;
+  top: 918px;
+  
+  background: #1D1D1C;
+
+
+
+
+}
+.feature p{
+
+  
+  left: 7.78%;
+  right: 7.78%;
+  top: 57.48%;
+  bottom: 38.51%;
+  
+  font-family: Cormorant Garamond;
+  
+  
+  
+  /* identical to box height, or 71px */
+  font-style: normal;
+font-weight: 500;
+font-size: 65px;
+line-height: 109.02%;
+  text-align: left;
+  color: #FFFFFF;
+
+}
+
+
+.featureComponment {
+  
+  padding: 36px;
+    
+    width: 383px;
+    
+    height: 251px;
+    left: 944px;
+    top: 1129px;
+    background: #181818;
+  
+}
+.featureComponmentTitle {
+  position: static;
+  width: 311px;
+  height: 40px;
+  left: 36px;
+  top: 36px;
+  
+  font-family: Cormorant Garamond;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 36px;
+  line-height: 109.02%;
+  /* identical to box height, or 39px */
+  
+  
+  color: #FFFFFF;
+  
+  
+  /* Inside auto layout */
+  
+  display: flex;
+  align-items: center;
+  text-align: center;
+  
+
+
+
+}
+.featureComponmentDescription{
+
+  width: 311px;
+height: 70px;
+left: 36px;
+top: 94px;
+font-family: Open Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 140%;
+color: #FFFFFF;
+
+opacity: 0.6;
+  text-align: left;
+}
+.featureComponmentButtonText{
+  width: 139px;
+  height: 33px;
+  left: 36px;
+  top: 182px;
+  
+  background: #A5AFD4;
+  border-radius: 100px;
+  
+}
+.featureComponmentButtonText a{
+
+text-align: center;
+
+
+width: 113px;
+height: 30px;
+left: calc(50% - 113px/2);
+top: calc(50% - 30px/2);
+
+font-family: Helvetica Neue;
+font-style: normal;
+font-weight: 500;
+font-size: 15px;
+line-height: 120%;
+/* or 18px */
+
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.01em;
+
+/* White */
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 0px 18px;
+
+}
+
+.featureRow:not(:first-child) {
+  margin-top: 2rem;
+}

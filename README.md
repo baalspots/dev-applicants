@@ -18,7 +18,7 @@ The task is to build the Figma design provided in React. You'll want to make sur
 7. The API will have more data than what is needed to be displayed, so make to to limit it to just show 6 cards.
 8. In the `App.js` file, you'll see an import from `emotion-flex-grid`. Please use this when building the design. You can reference the documentation [here](https://github.com/rann91/emotion-flex-grid) or [here](https://rann91.github.io/emotion-flex-grid/).
 9. The menu does not need to be functioning, it can just be the icon
-10. Once you're finished with the design, publish the project to your Github account and send the link to [meaghan@baalspots.com](mailto:meaghan@baalspots.com) or in Indeed/LinkedIn.
+10. Once you're finished with the design, publish the project to your Github account and send the link to [meaghan@baalspots.com](mailto:meaghan@baalspots.com) or in Indeed/LinkedIn/ZipRecruiter.
 
 #### _Note_
 
